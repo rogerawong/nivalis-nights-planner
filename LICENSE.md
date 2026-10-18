@@ -1,6 +1,6 @@
 Copyright © 2026 Roger Wong
 
-The PolyForm Strict License 1.0.0 below covers the code and design of Nivalis Nights Planner. It doesn’t cover the game’s names and facts: those belong to ION LANDS. It doesn’t cover the fonts in assets/ either: they’re under the SIL Open Font License 1.1, and their texts are in licenses/.
+The PolyForm Strict License 1.0.0 below covers the code and design of Nivalis Nights Planner. It doesn’t cover the game’s names and facts: those belong to ION LANDS. Two things in assets/ have licences of their own, with their texts in licenses/: the fonts are under the SIL Open Font License 1.1, and GoatCounter’s counting script (goatcounter-count.js) is under the ISC licence.
 
 # PolyForm Strict License 1.0.0
 

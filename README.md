@@ -2,7 +2,7 @@
 
 A planner for running venues in *Nivalis Nights*. It works out what to stock, which dishes suit each venue’s customers, which recipe swaps help, and how many greenhouse modules your menus need.
 
-Open it at https://rogerawong.github.io/nivalis-nights-planner/. Your plans are saved only in your own browser.
+Open it at https://rogerawong.github.io/nivalis-nights-planner/. Your plans are saved only in your own browser. The site counts visits with GoatCounter, which stores no IP addresses and sets no cookies.
 
 It’s a fan project and isn’t affiliated with ION LANDS. Nivalis Nights and its names belong to ION LANDS.
 
