@@ -2,6 +2,11 @@
 
 What changed in each release, newest first. A release may add up to four indented bullets under its line; the app's What's new window shows them.
 
+- **Release 9** · 23 Oct 2026: Fill in your venues, menus, and sales without typing them: import your game save on My venues.
+  - On a computer, open My venues and choose Import from game save. It reads the save in your browser, so the file never leaves your computer.
+  - It sets the venues you own, their levels, the dishes on each menu now, and your Farming level.
+  - A venue with a week or more of history is counted by week from the last seven full game days, and a newer one by day at its average so far.
+  - You see what will change before anything does, and My venues says where to find your save, including Steam's cloud storage for GeForce Now players.
 - **Release 8** · 22 Oct 2026: Grow what your venues need with fewer Greenhouse modules and less left over filling your storage.
   - Crops that each need only part of a module can share one with other crops of the same module type, in a crop rotation.
   - A Crop rotations list shows what to plant in each shared module, day by day.
