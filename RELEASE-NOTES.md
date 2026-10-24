@@ -2,6 +2,8 @@
 
 What changed in each release, newest first. A release may add up to four indented bullets under its line; the app's What's new window shows them.
 
+- **Release 10** · 24 Oct 2026: Crop grow times now match Update 5's farming rebalance.
+  - 21 crops grow more slowly, so some need more Greenhouse modules.
 - **Release 9** · 23 Oct 2026: Fill in your venues, menus, and sales without typing them: import your game save on My venues.
   - On a computer, open My venues and choose Import from game save. It reads the save in your browser, so the file never leaves your computer.
   - It sets the venues you own, their levels, the dishes on each menu now, and your Farming level.
