@@ -2,6 +2,9 @@
 
 What changed in each release, newest first. A release may add up to four indented bullets under its line; the app's What's new window shows them.
 
+- **Release 11** · 24 Oct 2026: Spend less time scrolling recipes: you can now mark recipes locked or unlocked and load recipe status from your save files.
+  - Custom recipes is now Recipes, where you choose which recipes you've unlocked. Import your game save on My venues to set them all at once.
+  - The Stock planner and the Clientele matcher then offer only your unlocked recipes.
 - **Release 10** · 24 Oct 2026: Crop grow times now match Update 5's farming rebalance.
   - 21 crops grow more slowly, so some need more Greenhouse modules.
 - **Release 9** · 23 Oct 2026: Fill in your venues, menus, and sales without typing them: import your game save on My venues.
