@@ -2,6 +2,11 @@
 
 What changed in each release, newest first. A release may add up to four indented bullets under its line; the app's What's new window shows them.
 
+- **Release 13** · 26 Oct 2026: Spread your modules across the greenhouses you rent: the Floor plan designer now says what goes in each one, what to set its sliders to, and how much storage its harvest needs.
+  - Select Rented on your greenhouses and Distribute from Greenhouse page. Crops that like the same conditions go together.
+  - Each arranged module now carries its crop's name and its tier.
+  - On the Greenhouse tab, Round up to whole modules replaces the Replanting choices and crop rotations: off buys a crop's remainder, on grows it in one extra module you harvest every few days.
+  - Whatever is most optimal, the Module tier's new default, mixes the tiers your level allows so each crop grows as close to what your venues use as it can, never more.
 - **Release 12** · 26 Oct 2026: Plan your greenhouse floors: the Floor plan designer arranges your modules in any greenhouse, with a walkway to each one.
   - On a computer, open it from the Greenhouse tab, pick a greenhouse, and type how many modules of each type, or select Copy from Greenhouse page.
   - If they don't all fit, it shows what's left over and which greenhouses would hold them all.
