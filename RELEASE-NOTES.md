@@ -2,6 +2,9 @@
 
 What changed in each release, newest first. A release may add up to four indented bullets under its line; the app's What's new window shows them.
 
+- **Release 12** · 26 Oct 2026: Plan your greenhouse floors: the Floor plan designer arranges your modules in any greenhouse, with a walkway to each one.
+  - On a computer, open it from the Greenhouse tab, pick a greenhouse, and type how many modules of each type, or select Copy from Greenhouse page.
+  - If they don't all fit, it shows what's left over and which greenhouses would hold them all.
 - **Release 11** · 24 Oct 2026: Spend less time scrolling recipes: you can now mark recipes locked or unlocked and load recipe status from your save files.
   - Custom recipes is now Recipes, where you choose which recipes you've unlocked. Import your game save on My venues to set them all at once.
   - The Stock planner and the Clientele matcher then offer only your unlocked recipes.
