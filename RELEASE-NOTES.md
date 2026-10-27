@@ -2,6 +2,7 @@
 
 What changed in each release, newest first. A release may add up to four indented bullets under its line; the app's What's new window shows them.
 
+- **Release 15** · 26 Oct 2026: No more typing zeros: Clear all on the Floor plan designer's Modules panel empties every field at once.
 - **Release 14** · 26 Oct 2026: Carry each greenhouse's harvest to one venue: the Floor plan designer can now give each venue a greenhouse of its own.
   - Under Grow for, select Each venue in its own greenhouse, then select Distribute from Greenhouse page. Each venue gets its own sliders, plant list and storage.
 - **Release 13** · 26 Oct 2026: Spread your modules across the greenhouses you rent: the Floor plan designer now says what goes in each one, what to set its sliders to, and how much storage its harvest needs.
