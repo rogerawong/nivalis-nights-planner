@@ -2,6 +2,9 @@
 
 What changed in each release, newest first. A release may add up to four indented bullets under its line; the app's What's new window shows them.
 
+- **Release 17** · 27 Oct 2026: Greenhouse planner usability improvements.
+  - Each greenhouse remembers the last layout you arranged, so switching between greenhouses no longer means arranging them again.
+  - Clear all forgets a greenhouse's layout. Layouts stay on this browser and aren't in your backup file.
 - **Release 16** · 27 Oct 2026: Refined Greenhouse floor plans.
   - Slightly more modules now fit in Skyhigh Gardens, and every greenhouse's floor more accurately depicts the obstructions you have to place around.
   - Thanks to Boto, who extracted the building plans from the game's files.
