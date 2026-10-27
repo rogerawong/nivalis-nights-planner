@@ -2,6 +2,9 @@
 
 What changed in each release, newest first. A release may add up to four indented bullets under its line; the app's What's new window shows them.
 
+- **Release 16** · 27 Oct 2026: Refined Greenhouse floor plans.
+  - Slightly more modules now fit in Skyhigh Gardens, and every greenhouse's floor more accurately depicts the obstructions you have to place around.
+  - Thanks to Boto, who extracted the building plans from the game's files.
 - **Release 15** · 26 Oct 2026: No more typing zeros: Clear all on the Floor plan designer's Modules panel empties every field at once.
 - **Release 14** · 26 Oct 2026: Carry each greenhouse's harvest to one venue: the Floor plan designer can now give each venue a greenhouse of its own.
   - Under Grow for, select Each venue in its own greenhouse, then select Distribute from Greenhouse page. Each venue gets its own sliders, plant list and storage.
