@@ -2,6 +2,7 @@
 
 What changed in each release, newest first. A release may add up to four indented bullets under its line; the app's What's new window shows them. A release whose line reads ` · silent` after its date is published as any other, but the What's new window doesn't show it.
 
+- **Release 19** · 28 Oct 2026 · silent: Floor plans show whole crop names and stripe each fractional module, and the Greenhouse switch now reads Include fractional modules.
 - **Release 18** · 27 Oct 2026 · silent: Distribute from Greenhouse page also lays out each greenhouse it fills.
 - **Release 17** · 27 Oct 2026: Greenhouse planner usability improvements.
   - Each greenhouse remembers the last layout you arranged, so switching between greenhouses no longer means arranging them again.
