@@ -2,6 +2,9 @@
 
 What changed in each release, newest first. A release may add up to four indented bullets under its line; the app's What's new window shows them. A release whose line reads ` · silent` after its date is published as any other, but the What's new window doesn't show it.
 
+- **Release 23** · 5 Nov 2026: Greenhouse layouts can now build on previous layouts instead of always starting from scratch.
+  - Keep existing layouts, on by default, holds every module where it stands when you Distribute again, and lists what to add, remove or replant.
+  - Leave room for growth reserves space for the modules your menu is heading for (25% more by default), so additions fit without a clean slate.
 - **Release 22** · 4 Nov 2026 · silent: The Floor plan designer no longer draws a passage to the door that is shorter than it is wide.
 - **Release 21** · 3 Nov 2026: UI standardization and stability enhancements.
 - **Release 20** · 29 Oct 2026: Verified works with Update 7.
