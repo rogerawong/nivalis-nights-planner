@@ -2,6 +2,7 @@
 
 What changed in each release, newest first. A release may add up to four indented bullets under its line; the app's What's new window shows them. A release whose line reads ` · silent` after its date is published as any other, but the What's new window doesn't show it.
 
+- **Release 25** · 6 Nov 2026: Verified works with Update 8.
 - **Release 24** · 6 Nov 2026: Keep existing layouts no longer asks you to move crops between greenhouses when your menu changes: each crop stays where it grows.
   - Distribute from Greenhouse page places only new crops and what no longer fits.
   - When a greenhouse's new crops don't fit around its layout, the notice says to Clear all on that greenhouse first; the others stay as they are.
