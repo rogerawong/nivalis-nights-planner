@@ -2,6 +2,7 @@
 
 What changed in each release, newest first. A release may add up to four indented bullets under its line; the app's What's new window shows them. A release whose line reads ` · silent` after its date is published as any other, but the What's new window doesn't show it.
 
+- **Release 27** · 7 Nov 2026 · silent: A greenhouse's sliders now read Humidity, Light, Temperature, the order the game shows them in.
 - **Release 26** · 7 Nov 2026: Greenhouse layout improvements.
   - Layouts reserve room for the Farming Console, and for the composter when the Composter switch is on.
   - With Whatever is most optimal and Keep existing layouts on, upgrading the tiers of your existing modules to meet a crop's growing need takes precedence over adding modules.
