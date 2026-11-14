@@ -2,6 +2,10 @@
 
 What changed in each release, newest first. A release may add up to four indented bullets under its line; the app's What's new window shows them. A release whose line reads ` · silent` after its date is published as any other, but the What's new window doesn't show it.
 
+- **Release 28** · 13 Nov 2026: Customize 164 recipes, up from 70: the planner is now up to date for Update 9.
+  - As in the game, the ingredient a dish is named for can no longer be swapped. If you had swapped one, the planner puts it back and tells you which of your venues sell that dish.
+  - Poached Roaches is now made with Cockroaches, which you can swap for other insects.
+  - The Clientele matcher's suggestions filter by the game's two menu categories, Drink and Food.
 - **Release 27** · 7 Nov 2026 · silent: A greenhouse's sliders now read Humidity, Light, Temperature, the order the game shows them in.
 - **Release 26** · 7 Nov 2026: Greenhouse layout improvements.
   - Layouts reserve room for the Farming Console, and for the composter when the Composter switch is on.
