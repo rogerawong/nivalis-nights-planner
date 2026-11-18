@@ -2,6 +2,9 @@
 
 What changed in each release, newest first. A release may add up to four indented bullets under its line; the app's What's new window shows them. A release whose line reads ` · silent` after its date is published as any other, but the What's new window doesn't show it.
 
+- **Release 29** · 17 Nov 2026: New Menu prices (beta) tool helps you optimize prices for your dishes.
+  - Optimize for venue leveling and reviews, or for maximum sustainable profit.
+  - Import your save to start from the prices on your menus.
 - **Release 28** · 13 Nov 2026: Customize 164 recipes, up from 70: the planner is now up to date for Update 9.
   - As in the game, the ingredient a dish is named for can no longer be swapped. If you had swapped one, the planner puts it back and tells you which of your venues sell that dish.
   - Poached Roaches is now made with Cockroaches, which you can swap for other insects.
