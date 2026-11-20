@@ -2,6 +2,7 @@
 
 What changed in each release, newest first. A release may add up to four indented bullets under its line; the app's What's new window shows them. A release whose line reads ` · silent` after its date is published as any other, but the What's new window doesn't show it.
 
+- **Release 30** · 20 Nov 2026: Up to date for Update 10: Stacks recipe now shows as unlocked.
 - **Release 29** · 17 Nov 2026: New Menu prices (beta) tool helps you optimize prices for your dishes.
   - Optimize for venue leveling and reviews, or for maximum sustainable profit.
   - Import your save to start from the prices on your menus.
